@@ -1,7 +1,11 @@
 #Воронина Анна Михайловна
 Женщина, 29 лет, родилась 22 августа 1992
 
-**Контакты**                                         ![FOTO](https://github.com/AnnVoronina/Resume/blob/main/img/442666895.jpeg)
+
+![FOTO](https://github.com/AnnVoronina/Resume/blob/main/img/442666895.jpeg)
+
+
+**Контакты**                           
  +7 (931) 003-18-31
 dallion@mail.ru — предпочитаемый способ связи
 
